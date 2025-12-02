@@ -1,7 +1,7 @@
 ## Hi there 👋
-## I'm Wicky
-## I'm a knight or you can say I'm a DEV
-## Rightnow I'm study about back-end
+I'm Wicky
+I'm a knight or you can say I'm a DEV
+Rightnow I'm study about back-end
 
 <!--
 **wickyhien18/wickyhien18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,6 @@
 <h2> Salve, miles!, I'm Wicky Hien <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRiaGZucjlmMHo4eGpydGh6OThnMW9yeHk5M3FyMDBqbXlzazA4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HOIVOsAWXA86UBiN1Q/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">######
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://www.linkedin.com/in/hiển-giáp-85b0a63a0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
@@ -18,8 +17,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
-  name: "Anmol Pratap Singh",
+const hien = {
+  name: "Wicky Hien",
   pronouns: ["he", "him"],
   languages: ["Java","Python"],
   askMeAbout: [

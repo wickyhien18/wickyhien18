@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlncXI3OHdycDM5dDNxbHk0aW9kMWx3MnIzYjJ5dmZ5cWEycXRucSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZFLA8hZkYRiXQgplcQ/giphy.gif" >
 <h2> Salve, miles!, I'm Wicky Hien 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRiaGZucjlmMHo4eGpydGh6OThnMW9yeHk5M3FyMDBqbXlzazA4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HOIVOsAWXA86UBiN1Q/giphy.gif" 
     width="50"></h2>

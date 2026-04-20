@@ -21,185 +21,28 @@
 const anmol = {
   name: "Anmol Pratap Singh",
   pronouns: ["he", "him"],
-  languages: ["TypeScript", "JavaScript", "Python", "Dart"],
+  languages: ["Java","Python"],
   askMeAbout: [
     "web development",
-    "mobile app development",
-    "cloud architecture",
-    "generative AI",
-    "agentic systems",
-    "SaaS products",
-    "system design"
+    "back-end programmer",
+    "software engineer",
   ],
 
-  technologies: {
-    frontend: {
-      frameworks: ["React", "Next.js"],
-      styling: ["Tailwind CSS", "Sass", "Bootstrap"],
-      uiLibraries: [
-        "Material UI",
-        "Ant Design",
-        "Chakra UI",
-        "shadcn/ui"
-      ]
-    },
-
     backend: {
-      node: ["Node.js", "Express", "NestJS"],
+      Java: ["Spring Boot"],
       python: ["Flask"]
     },
 
-    mobile: {
-      crossPlatform: ["Flutter"]
-    },
-
-    devOps: {
-      tools: ["Docker", "GitHub Actions", "Nginx"],
-      practices: ["CI/CD", "Infrastructure as Code"]
-    },
-
-    cloud: {
-      aws: [
-        "EC2",
-        "S3",
-        "RDS",
-        "Lambda",
-        "Fargate",
-        "CloudWatch"
-      ],
-      gcp: [
-        "Compute Engine",
-        "Cloud Run",
-        "Cloud Functions",
-        "Cloud Storage",
-        "Firestore",
-        "BigQuery"
-      ]
-    },
 
     databases: {
-      relational: ["PostgreSQL"],
-      nosql: ["MongoDB", "Firebase Realtime DB", "Firestore"],
+      relational: ["MySQL, SQL SERVER"],
+      nosql: ["MongoDB"],
       inMemory: ["Redis"]
     },
 
-    realtimeAndAPIs: [
-      "REST APIs",
-      "WebSockets",
-      "Socket.IO"
-    ],
 
-    ai: {
-      generativeAI: [
-        "LLM integration",
-        "Prompt engineering",
-        "Vector databases",
-        "AI agents",
-        "Workflow automation"
-      ],
-      architectures: [
-        "agentic architecture",
-        "tool-augmented agents",
-        "multi-agent systems"
-      ],
-      models: ["OpenAI", "Gemini", "Llama"]
-    }
-  },
-
-  architecture: {
-    frontend: ["SPA", "SSR"],
-    backend: ["monolith", "microservices", "serverless"],
-    cloudPatterns: [
-      "event-driven",
-      "agentic systems",
-      "scalable SaaS"
-    ],
-    data: ["relational", "nosql", "in-memory"]
-  },
-currentFocus:"Building scalable AI-first SaaS products with agentic architectures",
-funFact: "Most bugs disappear after a coffee and a clean commit history"
 };
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C316%20hrs%2059%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-684-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.32%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 390.9 kB Used in GitHub's Storage 
- > 
-> 🏆 384 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 33 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2147 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-🌆 Daytime                4824 commits        ████████░░░░░░░░░░░░░░░░░   32.96 % 
-🌃 Evening                5129 commits        █████████░░░░░░░░░░░░░░░░   35.04 % 
-🌙 Night                  2538 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1749 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Tuesday                  2019 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Wednesday                2030 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Thursday                 1681 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Friday                   1568 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Saturday                 2413 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Sunday                   3178 commits        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               18 hrs 3 mins       █████████████████████░░░░   84.95 % 
-Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-JavaScript               21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Bash                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-
-🔥 Editors: 
-WebStorm                 21 hrs 10 mins      █████████████████████████   99.60 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-
-💻 Operating System: 
-Mac                      21 hrs 15 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            █████████░░░░░░░░░░░░░░░░   36.26 % 
-TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
-
-
-
-
- Last Updated on 20/04/2026 01:09:50 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.

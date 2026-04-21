@@ -22,28 +22,26 @@
 const hien = {
   name: "Giap Hien",
   pronouns: ["he", "him"],
-  languages: ["Java","Python"],
-  askMeAbout: [
-    "web development",
-    "back-end programmer",
-    "software engineer",
-  ],
-
-    backend: {
-      Java: ["Spring Boot"],
-      python: ["Flask"]
-    },
-
-
-    databases: {
-      relational: ["MySQL, SQL SERVER"],
-      nosql: ["MongoDB"],
-      inMemory: ["Redis"]
-    },
-
-
 };
 ```
+### Ask Me About
+![Web Development](https://img.shields.io/static/v1?style=for-the-badge&message=Web+Development&color=0A66C2&logo=google-chrome&logoColor=FFFFFF&label=)
+![Back-end Programmer](https://img.shields.io/static/v1?style=for-the-badge&message=Back-end+Programmer&color=6DB33F&logo=server&logoColor=FFFFFF&label=)
+![Software Engineer](https://img.shields.io/static/v1?style=for-the-badge&message=Software+Engineer&color=FF6F00&logo=code&logoColor=FFFFFF&label=)
+
+### Languages
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=java&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=python&logoColor=FFFFFF&label=)
+
+### Backend
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java+%2F+Spring+Boot&color=007396&logo=java&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python+%2F+Flask&color=3776AB&logo=python&logoColor=FFFFFF&label=)
+
+### Databases
+![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label=)
+![SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=SQL+Server&color=CC2927&logo=microsoft-sql-server&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF&label=)
+![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=redis&logoColor=FFFFFF&label=)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 

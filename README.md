@@ -16,14 +16,7 @@
 </a>
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const hien = {
-  name: "Giap Hien",
-  pronouns: ["he", "him"],
-};
-```
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 ### Ask Me About
 ![Web Development](https://img.shields.io/static/v1?style=for-the-badge&message=Web+Development&color=0A66C2&logo=google-chrome&logoColor=FFFFFF&label=)
 ![Back-end Programmer](https://img.shields.io/static/v1?style=for-the-badge&message=Back-end+Programmer&color=6DB33F&logo=server&logoColor=FFFFFF&label=)

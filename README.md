@@ -17,24 +17,57 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-### Ask Me About
-![Web Development](https://img.shields.io/static/v1?style=for-the-badge&message=Web+Development&color=0A66C2&logo=google-chrome&logoColor=FFFFFF&label=)
-![Back-end Programmer](https://img.shields.io/static/v1?style=for-the-badge&message=Back-end+Programmer&color=6DB33F&logo=server&logoColor=FFFFFF&label=)
-![Software Engineer](https://img.shields.io/static/v1?style=for-the-badge&message=Software+Engineer&color=FF6F00&logo=code&logoColor=FFFFFF&label=)
+## 🚀 AI Backend Engineer
 
-### Languages
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=java&logoColor=FFFFFF&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=python&logoColor=FFFFFF&label=)
+Building scalable backend systems integrated with AI/ML models, focusing on APIs, data pipelines, and real-world deployment.
 
-### Backend
-![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java+%2F+Spring+Boot&color=007396&logo=java&logoColor=FFFFFF&label=)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python+%2F+Flask&color=3776AB&logo=python&logoColor=FFFFFF&label=)
+---
 
-### Databases
+### 🧠 Ask Me About
+![AI Engineering](https://img.shields.io/static/v1?style=for-the-badge&message=AI+Engineering&color=412991&logo=openai&logoColor=FFFFFF&label=)
+![Backend Engineering](https://img.shields.io/static/v1?style=for-the-badge&message=Backend+Engineering&color=6DB33F&logo=server&logoColor=FFFFFF&label=)
+![LLM Applications](https://img.shields.io/static/v1?style=for-the-badge&message=LLM+Applications&color=FF6F00&logo=semanticweb&logoColor=FFFFFF&label=)
+![System Design](https://img.shields.io/static/v1?style=for-the-badge&message=System+Design&color=0A66C2&logo=diagram&logoColor=FFFFFF&label=)
+
+---
+
+### ⚙️ Backend Stack
+![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=spring&logoColor=FFFFFF&label=)
+![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=flask&logoColor=FFFFFF&label=)
+![REST API](https://img.shields.io/static/v1?style=for-the-badge&message=REST+API&color=02569B&logo=fastapi&logoColor=FFFFFF&label=)
+
+---
+
+### 🤖 AI / ML Stack
+![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=openai&logoColor=FFFFFF&label=)
+![TensorFlow](https://img.shields.io/static/v1?style=for-the-badge&message=TensorFlow&color=FF6F00&logo=tensorflow&logoColor=FFFFFF&label=)
+![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=F7931E&logo=scikit-learn&logoColor=FFFFFF&label=)
+![OpenCV](https://img.shields.io/static/v1?style=for-the-badge&message=Computer+Vision&color=5C3EE8&logo=opencv&logoColor=FFFFFF&label=)
+
+---
+
+### 🗄️ Data & Storage
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label=)
 ![SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=SQL+Server&color=CC2927&logo=microsoft-sql-server&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF&label=)
-![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=redis&logoColor=FFFFFF&label=)
+![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis+Cache&color=DC382D&logo=redis&logoColor=FFFFFF&label=)
 
+---
+
+### ☁️ DevOps & Deployment
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF&label=)
+![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=nginx&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=linux&logoColor=000000&label=)
+
+---
+
+### 🧩 What I Build
+- AI-powered REST APIs (chatbot, recommendation, CV systems)
+- LLM integrations (RAG, embeddings, prompt pipelines)
+- Backend systems for ML model serving
+- Data pipelines & preprocessing systems
+- Scalable microservices with caching (Redis)
+
+---
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 

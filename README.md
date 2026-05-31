@@ -17,21 +17,13 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-## 🚀 AI Backend Engineer
+## Backend-Focused Full-Stack Developer
 
-Building scalable backend systems integrated with AI/ML models, focusing on APIs, data pipelines, and real-world deployment.
+💻 Passionate about building scalable applications, designing efficient databases, working with Linux systems, and exploring AI-powered software solutions.
 
----
+🚀 Currently developing a Pharmacy Management System with Node.js, Express.js, and PostgreSQL (Supabase).
 
-### 🎯 Current Focus
-
-* Backend Engineering
-* API Development
-* Database Design
-* Linux Administration
-* System Design
-* Software Architecture
-* AI-powered Applications
+🌱 Learning Full-Stack Development, System Design, Software Architecture, and Cloud Fundamentals.
 
 ---
 
@@ -88,6 +80,15 @@ Building scalable backend systems integrated with AI/ML models, focusing on APIs
 ![Prompt Engineering](https://img.shields.io/static/v1?style=for-the-badge\&message=Prompt+Engineering\&color=7B1FA2\&logo=openai\&logoColor=FFFFFF\&label=)
 
 ---
+### 📈 Currently Learning
+
+![Full-Stack Development](https://img.shields.io/static/v1?style=for-the-badge\&message=Full-Stack+Development\&color=0A66C2\&logo=javascript\&logoColor=FFFFFF\&label=)
+![System Design](https://img.shields.io/static/v1?style=for-the-badge\&message=System+Design\&color=1565C0\&logo=diagramsdotnet\&logoColor=FFFFFF\&label=)
+![Software Architecture](https://img.shields.io/static/v1?style=for-the-badge\&message=Software+Architecture\&color=6A1B9A\&logo=apachemaven\&logoColor=FFFFFF\&label=)
+![Cloud Computing](https://img.shields.io/static/v1?style=for-the-badge\&message=Cloud+Computing\&color=FF9900\&logo=amazonaws\&logoColor=FFFFFF\&label=)
+
+---
+
 
 ### 📈 Goals 2026
 

@@ -23,11 +23,11 @@
 
 🚀 Currently developing a Pharmacy Management System with Node.js, Express.js, and PostgreSQL (Supabase).
 
-🌱 Learning Full-Stack Development, System Design, Software Architecture, and Cloud Fundamentals.
+🌱 Learning Full-Stack Development, System Design.
 
 ---
 
-### 🧠 Ask Me About
+<!--### 🧠 Ask Me About
 ![AI Engineering](https://img.shields.io/static/v1?style=for-the-badge&message=AI+Engineering&color=412991&logo=openai&logoColor=FFFFFF&label=)
 ![Backend Engineering](https://img.shields.io/static/v1?style=for-the-badge&message=Backend+Engineering&color=6DB33F&logo=server&logoColor=FFFFFF&label=)
 ![LLM Applications](https://img.shields.io/static/v1?style=for-the-badge&message=LLM+Applications&color=FF6F00&logo=semanticweb&logoColor=FFFFFF&label=)
@@ -35,13 +35,15 @@
 ![Linux Administration](https://img.shields.io/static/v1?style=for-the-badge\&message=Linux+Administration\&color=FCC624\&logo=linux\&logoColor=000000\&label=)
 
 ---
+-->
 
 ### ⚙️ Backend Stack
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge\&message=Node.js\&color=339933\&logo=node.js\&logoColor=FFFFFF\&label=)
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge\&message=Node.js\&color=339933\&logo=node.js\&logoColor=FFFFFF\&label=) 
 ![Express.js](https://img.shields.io/static/v1?style=for-the-badge\&message=Express.js\&color=000000\&logo=express\&logoColor=FFFFFF\&label=)
-![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=spring&logoColor=FFFFFF&label=)
-![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=flask&logoColor=FFFFFF&label=)
+![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=spring&logoColor=FFFFFF&label=) 
 ![REST API](https://img.shields.io/static/v1?style=for-the-badge&message=REST+API&color=02569B&logo=fastapi&logoColor=FFFFFF&label=)
+<!--![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=flask&logoColor=FFFFFF&label=)-->
+
 
 ---
 
@@ -49,9 +51,10 @@
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=html5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=css3&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000&label=)
-![Responsive Design](https://img.shields.io/static/v1?style=for-the-badge&message=Responsive+Design&color=2196F3&logo=css3&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000&label=) 
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DAFB&logo=react&logoColor=000000&label=)
+<!--![Responsive Design](https://img.shields.io/static/v1?style=for-the-badge&message=Responsive+Design&color=2196F3&logo=css3&logoColor=FFFFFF&label=)-->
+
 
 ---
 
@@ -59,20 +62,20 @@
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge\&message=PostgreSQL\&color=4169E1\&logo=postgresql\&logoColor=FFFFFF\&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label=)
 ![SQL Server](https://img.shields.io/static/v1?style=for-the-badge&message=SQL+Server&color=CC2927&logo=microsoft-sql-server&logoColor=FFFFFF&label=)
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF&label=)
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis+Cache&color=DC382D&logo=redis&logoColor=FFFFFF&label=)
+<!--![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF&label=)-->
 
 ---
 
 ### ☁️ DevOps & Deployment
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF&label=)
-![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=nginx&logoColor=FFFFFF&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=linux&logoColor=000000&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge\&message=Git\&color=F05032\&logo=git\&logoColor=FFFFFF\&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=github\&logoColor=FFFFFF\&label=)
+<!--![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=nginx&logoColor=FFFFFF&label=)
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=linux&logoColor=000000&label=)-->
 
 ---
-
+<!--
 ### 🤖 AI & Future Direction
 
 ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge\&message=OpenAI\&color=412991\&logo=openai\&logoColor=FFFFFF\&label=)
@@ -80,12 +83,13 @@
 ![Prompt Engineering](https://img.shields.io/static/v1?style=for-the-badge\&message=Prompt+Engineering\&color=7B1FA2\&logo=openai\&logoColor=FFFFFF\&label=)
 
 ---
+-->
 ### 📈 Currently Learning
 
 ![Full-Stack Development](https://img.shields.io/static/v1?style=for-the-badge\&message=Full-Stack+Development\&color=0A66C2\&logo=javascript\&logoColor=FFFFFF\&label=)
 ![System Design](https://img.shields.io/static/v1?style=for-the-badge\&message=System+Design\&color=1565C0\&logo=diagramsdotnet\&logoColor=FFFFFF\&label=)
-![Software Architecture](https://img.shields.io/static/v1?style=for-the-badge\&message=Software+Architecture\&color=6A1B9A\&logo=apachemaven\&logoColor=FFFFFF\&label=)
-![Cloud Computing](https://img.shields.io/static/v1?style=for-the-badge\&message=Cloud+Computing\&color=FF9900\&logo=amazonaws\&logoColor=FFFFFF\&label=)
+<!--![Software Architecture](https://img.shields.io/static/v1?style=for-the-badge\&message=Software+Architecture\&color=6A1B9A\&logo=apachemaven\&logoColor=FFFFFF\&label=)
+![Cloud Computing](https://img.shields.io/static/v1?style=for-the-badge\&message=Cloud+Computing\&color=FF9900\&logo=amazonaws\&logoColor=FFFFFF\&label=)-->
 
 ---
 

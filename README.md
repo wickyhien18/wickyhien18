@@ -5,13 +5,13 @@
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWs3ODl0YzVmdGd5YmFsYXIxZDlnajZ2dm15cjdxZXZlYzZncHNnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="230">
 </em></p>
 
-<a href="https://www.linkedin.com/in/hiển-giáp-85b0a63a0?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/hiển-giáp-85b0a63a0?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
 </a>
-<a href="https://www.facebook.com/hiens.giaps.7">
+<a href="https://www.facebook.com/hiens.giaps.7" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30"/>
 </a>
-<a href="https://zalo.me/0812099286">
+<a href="https://zalo.me/0812099286" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" width="30"/>
 </a>
 

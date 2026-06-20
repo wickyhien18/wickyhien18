@@ -40,8 +40,8 @@
 ### ⚙️ Backend Stack
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge\&message=Node.js\&color=339933\&logo=node.js\&logoColor=FFFFFF\&label=) 
 ![Express.js](https://img.shields.io/static/v1?style=for-the-badge\&message=Express.js\&color=000000\&logo=express\&logoColor=FFFFFF\&label=)
-![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=spring&logoColor=FFFFFF&label=) 
-![REST API](https://img.shields.io/static/v1?style=for-the-badge&message=REST+API&color=02569B&logo=fastapi&logoColor=FFFFFF&label=)
+<!--![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=spring&logoColor=FFFFFF&label=) 
+![REST API](https://img.shields.io/static/v1?style=for-the-badge&message=REST+API&color=02569B&logo=fastapi&logoColor=FFFFFF&label=)-->
 <!--![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=flask&logoColor=FFFFFF&label=)-->
 
 

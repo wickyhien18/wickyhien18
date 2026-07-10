@@ -60,9 +60,10 @@
 
 ### 🗄️ Data & Storage
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge\&message=PostgreSQL\&color=4169E1\&logo=postgresql\&logoColor=FFFFFF\&label=)
-![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label=)
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis+Cache&color=DC382D&logo=redis&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF&label=)
+<!--![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label=)-->
+
 
 ---
 

@@ -17,11 +17,11 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-## Backend-Focused Full-Stack Developer
+## Full-Stack Developer
 
 💻 Passionate about building scalable applications, designing efficient databases, working with Linux systems, and exploring AI-powered software solutions.
 
-🚀 Currently developing a Pharmacy Management System with Node.js, Express.js, and PostgreSQL (Supabase).
+🚀 Currently developing a Pharmacy Management System with Node.js, Express.js, PostgreSQL (Supabase), ReactJS, TailwindCSS and Redis.
 
 🌱 Learning Full-Stack Development, System Design.
 

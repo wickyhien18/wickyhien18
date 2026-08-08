@@ -69,10 +69,11 @@
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=vercel&logoColor=FFFFFF&label=)
 ![Render](https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=46E3B7&logo=render&logoColor=000000&label=)
  
-### 🤖 AI Engineering *(learning & applying)*
-![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=LLM+APIs&color=412991&logo=openai&logoColor=FFFFFF&label=)
-![RAG](https://img.shields.io/static/v1?style=for-the-badge&message=RAG&color=FF6F00&logo=semanticweb&logoColor=FFFFFF&label=)
-![Vector+Search](https://img.shields.io/static/v1?style=for-the-badge&message=Vector+Search&color=7B1FA2&logo=databricks&logoColor=FFFFFF&label=)
+**AI Engineering** *(learning toward AI Engineer internship — Jan 2027)*
+
+![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=python&logoColor=FFFFFF&label=)
+![LLM APIs](https://img.shields.io/static/v1?style=for-the-badge&message=LLM+APIs&color=412991&logo=openai&logoColor=FFFFFF&label=)
+![RAG](https://img.shields.io/static/v1?style=for-the-badge&message=RAG&color=FF6F00&label=)
  
 ---
  

@@ -30,19 +30,19 @@
 
 
 ---
-### 🛠️ Featured Projects
+**[Pharmacy Wicky](https://full-stack-pharmacy.vercel.app)** — Full-stack pharmacy e-commerce platform
+`Node.js` `Express` `PostgreSQL (Supabase)` `Prisma` `Redis` `React` `React Query` `Tailwind`
  
-**[Pharmacy Wicky](https://full-stack-pharmacy.vercel.app)** — Pharmacy e-commerce web app (Full-stack)
-- Backend: Node.js, Express.js, PostgreSQL (Supabase), Prisma, Redis
-- Frontend: React, Vite, React Query, TailwindCSS
-- Highlights: eliminated N+1 queries with raw SQL (JOINs, JSON_AGG, window functions), cache-aside pattern with Redis, secure refresh-token flow (HttpOnly cookies, `isRevoked` + cron cleanup), handled production deployment end-to-end (Vercel + Render, DNS/Cloudflare, CORS)
-- Deployed: Vercel (frontend) + Render (backend)
+- Optimized slow list/detail queries with raw SQL (`JOIN`, `JSON_AGG`, window functions), replacing N+1 query patterns from the initial Prisma-only implementation
+- Implemented Redis cache-aside pattern for product listings, with pattern-based invalidation on admin writes
+- Built a secure auth flow: short-lived JWT access tokens + HttpOnly refresh-token cookies, token revocation, and scheduled cleanup of expired tokens
+- Integrated VNPAY payment (signature verification, callback handling) and a full order lifecycle (create → cancel/return → admin approval)
+- Handled end-to-end production deployment: Vercel (frontend) + Render (backend), DNS via Cloudflare, cross-origin cookie/CORS configuration
+- Improved Lighthouse performance through lazy-loaded routes, image optimization, and skeleton loading — Speed Index 10.7s → 4.1s, CLS 0.239 → 0.072
   
 **AI Agent Secretary** *(in progress)*
-- CLI-based coding-assistant agent that reads and answers questions about a full-stack codebase
-- Built as an independent project/repo, taking a target codebase path as a parameter
-- Phase 1: read-only agent; running locally first, with remote deployment planned next
-
+- CLI coding-assistant agent that indexes and answers questions about a given codebase path
+- Phase 1: read-only, running locally — remote deployment planned next
 
 
 ### ⚙️ Backend
@@ -54,6 +54,7 @@
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=css3&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DAFB&logo=react&logoColor=000000&label=)
+![TailwindCSS](https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCSS&color=06B6D4&logo=tailwindcss&logoColor=FFFFFF&label=)
  
 ### 🗄️ Data & Storage
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=FFFFFF&label=)

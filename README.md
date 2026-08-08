@@ -37,11 +37,12 @@
 - Frontend: React, Vite, React Query, TailwindCSS
 - Highlights: eliminated N+1 queries with raw SQL (JOINs, JSON_AGG, window functions), cache-aside pattern with Redis, secure refresh-token flow (HttpOnly cookies, `isRevoked` + cron cleanup), handled production deployment end-to-end (Vercel + Render, DNS/Cloudflare, CORS)
 - Deployed: Vercel (frontend) + Render (backend)
+  
 **AI Agent Secretary** *(in progress)*
-- CLI-based coding-assistant agent that reads and answers questions about my own full-stack codebase
-- Built as an independent project/repo, separate from Pharmacy Wicky, taking a target codebase path as a parameter
-- Phase 1: read-only agent, with more advanced capabilities planned; running locally first, then deploying for remote access
----
+- CLI-based coding-assistant agent that reads and answers questions about a full-stack codebase
+- Built as an independent project/repo, taking a target codebase path as a parameter
+- Phase 1: read-only agent; running locally first, with remote deployment planned next
+
 
 
 ### ⚙️ Backend

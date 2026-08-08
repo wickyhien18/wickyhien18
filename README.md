@@ -53,7 +53,6 @@
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=css3&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000&label=) 
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DAFB&logo=react&logoColor=000000&label=)
-<!--![Responsive Design](https://img.shields.io/static/v1?style=for-the-badge&message=Responsive+Design&color=2196F3&logo=css3&logoColor=FFFFFF&label=)-->
 
 
 ---

@@ -17,92 +17,72 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-## Full-Stack Developer
+## Backend-focused Full-Stack Developer | Transitioning into AI Engineering
 
-💻 Passionate about building scalable applications, designing efficient databases, working with Linux systems, and exploring AI-powered software solutions.
-
-🚀 Currently developing a Pharmacy Management System with Node.js, Express.js, PostgreSQL (Supabase), ReactJS, TailwindCSS and Redis.
-
-🌱 Learning Full-Stack Development, System Design.
-
----
-
-<!--### 🧠 Ask Me About
-![AI Engineering](https://img.shields.io/static/v1?style=for-the-badge&message=AI+Engineering&color=412991&logo=openai&logoColor=FFFFFF&label=)
-![Backend Engineering](https://img.shields.io/static/v1?style=for-the-badge&message=Backend+Engineering&color=6DB33F&logo=server&logoColor=FFFFFF&label=)
-![LLM Applications](https://img.shields.io/static/v1?style=for-the-badge&message=LLM+Applications&color=FF6F00&logo=semanticweb&logoColor=FFFFFF&label=)
-![System Design](https://img.shields.io/static/v1?style=for-the-badge&message=System+Design&color=0A66C2&logo=diagram&logoColor=FFFFFF&label=)
-![Linux Administration](https://img.shields.io/static/v1?style=for-the-badge\&message=Linux+Administration\&color=FCC624\&logo=linux\&logoColor=000000\&label=)
-
----
--->
-
-### ⚙️ Backend Stack
-![Node.js](https://img.shields.io/static/v1?style=for-the-badge\&message=Node.js\&color=339933\&logo=node.js\&logoColor=FFFFFF\&label=) 
-![Express.js](https://img.shields.io/static/v1?style=for-the-badge\&message=Express.js\&color=000000\&logo=express\&logoColor=FFFFFF\&label=)
-<!--![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=spring&logoColor=FFFFFF&label=) 
-![REST API](https://img.shields.io/static/v1?style=for-the-badge&message=REST+API&color=02569B&logo=fastapi&logoColor=FFFFFF&label=)-->
-<!--![Flask](https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=flask&logoColor=FFFFFF&label=)-->
+### 🧑‍💻 About Me
+ 
+- 🎓 Final-year university student, looking for internship / Junior **Backend Engineer** opportunities
+- 💻 Full-stack developer with a strong focus on **Backend Engineering**: database design, query optimization, caching, system design
+- 🤖 In parallel, learning **AI Engineering** with an LLM-application focus (API-based) — prompt engineering, tool use, RAG, vector search — to integrate AI into the products I build
+- 🚀 Building **Pharmacy Wicky**, a pharmacy e-commerce web application, as a portfolio project for job interviews
+- 🌱 Also building an **AI coding-assistant agent** (CLI) that can read and answer questions about a codebase, inspired by Claude Code / Codex
+- 📫 Always open to connect — feel free to reach out if you have an opportunity or just want to chat!
 
 
 ---
+### 🛠️ Featured Projects
+ 
+**[Pharmacy Wicky](https://full-stack-pharmacy.vercel.app)** — Pharmacy e-commerce web app (Full-stack)
+- Backend: Node.js, Express.js, PostgreSQL (Supabase), Prisma, Redis
+- Frontend: React, Vite, React Query, TailwindCSS
+- Highlights: eliminated N+1 queries with raw SQL (JOINs, JSON_AGG, window functions), cache-aside pattern with Redis, secure refresh-token flow (HttpOnly cookies, `isRevoked` + cron cleanup), handled production deployment end-to-end (Vercel + Render, DNS/Cloudflare, CORS)
+- Deployed: Vercel (frontend) + Render (backend)
+**AI Agent Secretary** *(in progress)*
+- CLI-based coding-assistant agent that reads and answers questions about my own full-stack codebase
+- Built as an independent project/repo, separate from Pharmacy Wicky, taking a target codebase path as a parameter
+- Phase 1: read-only agent, with more advanced capabilities planned; running locally first, then deploying for remote access
+---
 
-### 🎨 Frontend Development
 
+### ⚙️ Backend
+![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF&label=)
+![Express.js](https://img.shields.io/static/v1?style=for-the-badge&message=Express.js&color=000000&logo=express&logoColor=FFFFFF&label=)
+ 
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=html5&logoColor=FFFFFF&label=)
 ![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=css3&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000&label=) 
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000&label=)
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=61DAFB&logo=react&logoColor=000000&label=)
-
-
----
-
+ 
 ### 🗄️ Data & Storage
-![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge\&message=PostgreSQL\&color=4169E1\&logo=postgresql\&logoColor=FFFFFF\&label=)
-![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis+Cache&color=DC382D&logo=redis&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=FFFFFF&label=)
+![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC382D&logo=redis&logoColor=FFFFFF&label=)
+![Prisma](https://img.shields.io/static/v1?style=for-the-badge&message=Prisma&color=2D3748&logo=prisma&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF&label=)
-<!--![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=mysql&logoColor=FFFFFF&label=)-->
-
-
----
-
+ 
 ### ☁️ DevOps & Deployment
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF&label=)
-![Git](https://img.shields.io/static/v1?style=for-the-badge\&message=Git\&color=F05032\&logo=git\&logoColor=FFFFFF\&label=)
-![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=github\&logoColor=FFFFFF\&label=)
-<!--![NGINX](https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=nginx&logoColor=FFFFFF&label=)
-![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=FCC624&logo=linux&logoColor=000000&label=)-->
-
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=git&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=github&logoColor=FFFFFF&label=)
+![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=vercel&logoColor=FFFFFF&label=)
+![Render](https://img.shields.io/static/v1?style=for-the-badge&message=Render&color=46E3B7&logo=render&logoColor=000000&label=)
+ 
+### 🤖 AI Engineering *(learning & applying)*
+![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=LLM+APIs&color=412991&logo=openai&logoColor=FFFFFF&label=)
+![RAG](https://img.shields.io/static/v1?style=for-the-badge&message=RAG&color=FF6F00&logo=semanticweb&logoColor=FFFFFF&label=)
+![Vector+Search](https://img.shields.io/static/v1?style=for-the-badge&message=Vector+Search&color=7B1FA2&logo=databricks&logoColor=FFFFFF&label=)
+ 
 ---
-<!--
-### 🤖 AI & Future Direction
-
-![OpenAI](https://img.shields.io/static/v1?style=for-the-badge\&message=OpenAI\&color=412991\&logo=openai\&logoColor=FFFFFF\&label=)
-![LLM Applications](https://img.shields.io/static/v1?style=for-the-badge\&message=LLM+Applications\&color=FF6F00\&logo=openai\&logoColor=FFFFFF\&label=)
-![Prompt Engineering](https://img.shields.io/static/v1?style=for-the-badge\&message=Prompt+Engineering\&color=7B1FA2\&logo=openai\&logoColor=FFFFFF\&label=)
-
+ 
+### 📈 2026 Goals
+ 
+- Strengthen core Backend Engineering & System Design skills
+- Build production-ready, scalable APIs
+- Ship the RAG-based chatbox feature for Pharmacy Wicky
+- Extend the AI coding-assistant agent beyond read-only capabilities
+- Land my first Backend Engineer / AI Engineer role
 ---
--->
-### 📈 Currently Learning
+ 
+<p align="center"><i>Always happy to connect — feel free to reach out 😊</i></p>
 
-![Full-Stack Development](https://img.shields.io/static/v1?style=for-the-badge\&message=Full-Stack+Development\&color=0A66C2\&logo=javascript\&logoColor=FFFFFF\&label=)
-![System Design](https://img.shields.io/static/v1?style=for-the-badge\&message=System+Design\&color=1565C0\&logo=diagramsdotnet\&logoColor=FFFFFF\&label=)
-<!--![Software Architecture](https://img.shields.io/static/v1?style=for-the-badge\&message=Software+Architecture\&color=6A1B9A\&logo=apachemaven\&logoColor=FFFFFF\&label=)
-![Cloud Computing](https://img.shields.io/static/v1?style=for-the-badge\&message=Cloud+Computing\&color=FF9900\&logo=amazonaws\&logoColor=FFFFFF\&label=)-->
-
----
-
-
-### 📈 Goals 2026
-
-* Master Backend Engineering
-* Build Production-Ready APIs
-* Learn Advanced System Design
-* Deploy Real-World Applications
-* Integrate AI into Software Products
-* Become a Strong Full-Stack Engineer
-
---- 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 

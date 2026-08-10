@@ -25,7 +25,7 @@
 - 🔧 Focus areas: database design, query optimization, caching strategy, API design
 - 📐 Currently studying **Python and the math foundations for ML** (linear algebra, probability), **ML Engineer as the longer-term goal**
 - 🚀 Shipped **Pharmacy Wicky**, a production-deployed pharmacy e-commerce platform — used as my main portfolio project
-- 🌱 Building an **AI coding-assistant CLI** that reads and answers questions about a codebase (read-only agent, inspired by Claude Code / Codex)
+<!--- 🌱 Building an **AI coding-assistant CLI** that reads and answers questions about a codebase (read-only agent, inspired by Claude Code / Codex)-->
 - 📫 Open to opportunities — reach out anytime
 
 
@@ -40,9 +40,9 @@
 - Handled end-to-end production deployment: Vercel (frontend) + Render (backend), DNS via Cloudflare, cross-origin cookie/CORS configuration
 - Improved Lighthouse performance through lazy-loaded routes, image optimization, and skeleton loading — Speed Index 10.7s → 4.1s, CLS 0.239 → 0.072
   
-**AI Agent Secretary** *(in progress)*
+<!--**AI Agent Secretary** *(in progress)*
 - CLI coding-assistant agent that indexes and answers questions about a given codebase path
-- Phase 1: read-only, running locally — remote deployment planned next
+- Phase 1: read-only, running locally — remote deployment planned next-->
 
 
 ### ⚙️ Backend

@@ -76,6 +76,11 @@
 ![RAG](https://img.shields.io/static/v1?style=for-the-badge&message=RAG&color=FF6F00&label=)
  
 ---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wickyhien18&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wickyhien18&theme=blue_green)
+
+---
  
 ### 📈 2026 Goals
  

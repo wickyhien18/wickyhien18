@@ -81,16 +81,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wickyhien18&theme=blue_green)
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wickyhien18/wickyhien18/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wickyhien18/wickyhien18/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/wickyhien18/wickyhien18/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-  </picture>
-</p>
  
 ### 📈 2026 Goals
  

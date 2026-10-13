@@ -2,7 +2,7 @@
 <h2> Salve, miles!, I'm Giáp Minh Hiển 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRiaGZucjlmMHo4eGpydGh6OThnMW9yeHk5M3FyMDBqbXlzazA4eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HOIVOsAWXA86UBiN1Q/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWs3ODl0YzVmdGd5YmFsYXIxZDlnajZ2dm15cjdxZXZlYzZncHNnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
+<img align='right' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmxxMWN3YjMydjFnY2tjYmMzaDQ2Ymd2d3poYXU1NmhqM2xuemtlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j6MwR2b2DEQz2TS5bV/giphy.gif" width="200">
 </em></p>
 
 <a href="https://www.linkedin.com/in/hiển-giáp-85b0a63a0?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
@@ -13,7 +13,7 @@
 </a>
 
 
-## Backend-focused Full-Stack Developer | Transitioning into AI / ML / DL Engineering
+## Backend-focused Full-Stack Developer | Transitioning into AI / ML Engineering
 
 ### 🧑‍💻 About Me
  
